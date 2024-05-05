@@ -1,4 +1,4 @@
 # Prashantyadav
 This is my first Git Repository
 <br>
-Editor - "Prashant Yadav"
+Editor - Prashant Yadav (Dhanraj)
